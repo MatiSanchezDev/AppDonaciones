@@ -24,6 +24,7 @@ module.exports = {
   },
   rules: {
     "@typescript-eslint/no-misused-promises": "off",
+    "no-empty-interface": false,
     "prettier/prettier": [
       "warn",
       {
